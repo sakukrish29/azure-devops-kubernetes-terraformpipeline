@@ -1,0 +1,7 @@
+echo "# azure-devops-kubernetes-terraformpipeline" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/sakukrish29/azure-devops-kubernetes-terraformpipeline.git
+git push -u origin main
